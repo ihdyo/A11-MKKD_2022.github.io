@@ -1,8 +1,8 @@
 Deadline pengiriman tanggal 14 pukul 23.59 (biar tanggal 15 siangnya aku bisa ngoreksi lagi)
 
-1. Cover:           
+1. Cover:           Andi
 2. Recommendation:  
-3. Destination:     Yodhi
+3. Destination:     
 4. Review:          
 5. Contact:         
 
