@@ -2,8 +2,8 @@
 
 1. **Cover** <br> `Andi`
 3. **Recommendation** <br> `Ely`
-4. **Destination** <br> `-`
-5. **Review** <br> `-`
+4. **Destination** <br> `Yodhi`
+5. **Review** <br> `Ulrike`
 6. **Contact** <br> `Hasta`
 
 [Rancangan Website (Figma)](https://www.figma.com/file/cHUnj38U06MTtbcPhZkbLl/Touria?node-id=0%3A1)
