@@ -6,11 +6,5 @@
 5. **Review** <br> `Ulrike`
 6. **Contact** <br> `Hasta`
 
-[Rancangan Website (Figma)](https://www.figma.com/file/cHUnj38U06MTtbcPhZkbLl/Touria?node-id=0%3A1)
-___
-
-> *catatan:* <br>
-untuk aset gambar dan icon diganti gambar bebas dulu aja gapapa <br>
-Kalo ada pertanyaan lebih lanjut bisa dm aku di telegram atau ke grup langsung
-
-### SEMANGAT NGERJAINNYA KAK!
+> [Website Design (Figma)](https://www.figma.com/file/cHUnj38U06MTtbcPhZkbLl/Touria?node-id=0%3A1) <br>
+[Image Assets](https://drive.google.com/drive/folders/1IkaXEUQHk0dyUCrKJR34xY9KweT7QNi2?usp=sharing)
